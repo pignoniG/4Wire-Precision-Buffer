@@ -36,3 +36,7 @@ The layout is aimed at keeping thermoelectric EMF and leakage low:
 ## Status
 
 The v6 board is built and working. The PCB file carries the current component values; some values in the schematic are older. Characterisation (offset, noise, load regulation, stability) is in progress.
+
+## Licence
+
+MIT, see [LICENSE](LICENSE).
